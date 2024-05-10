@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FastCampus
 ## Kubernetes와 Docker로 한번에 끝내는 컨테이너 기반 MSA 실습 예제코드 입니다.
 
@@ -20,3 +21,6 @@
 > 강의 정정내용은 확인되는대로 계속 업데이트 할 예정입니다.
 > (링크를 클릭하시면 정정된 내용에 대해 확인 하실 수 있습니다.)
 ### * [Part4_Kubernetes](Part4_Kubernetes/Correction.md)
+=======
+# github_test
+>>>>>>> 3f1a252 (Initial commit)
